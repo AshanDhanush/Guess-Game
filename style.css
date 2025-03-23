@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+#box{
+    width: 500px;
+    background-color: aliceblue;
+    height: 500px;
+    border-radius: 20px;
+}
+#value{
+    position: relative;
+    left:120px;
+    top:100px;
+}
+#btn{
+    position: relative;
+    top:150px;
+    color:black;
+    background-color:blue;
+    border-radius: 10px;
+    width:100px;
+    right:30px
+}
+#h1{
+    font-family: "Merienda", cursive;
+    color: brown;
+    position: relative;
+    top:200px;
+    left:50px;
+}
+#table{
+    position: relative;
+    top:100px;
+    left:70px
+}
+#Topic{
+    position: relative;
+    left:70px;
+    color:brown;
+    top:40px;
+    font-family: "Winky Sans", sans-serif;
+}
+#h4{
+    color: black;
+    position: relative;
+    top:70px;
+    left:140px
+}
